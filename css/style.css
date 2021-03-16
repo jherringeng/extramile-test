@@ -39,6 +39,31 @@ nav {
   background-color: #000;
   height: 100px;
   width: 1200px;
+  position: relative;
+}
+
+nav p {
+  position: absolute;
+}
+
+#nav-home {
+  top: 50px;
+  left: 272px;
+}
+
+#nav-about {
+  top: 50px;
+  left: 374px;
+}
+
+#nav-products {
+  top: 50px;
+  left: 724px;
+}
+
+#nav-contact {
+  top: 50px;
+  left: 846px;
 }
 
 input {
